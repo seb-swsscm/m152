@@ -1,0 +1,45 @@
+3. 2.
+Demonstration
+›
+Fotos mit Beschriftung
+›
+3 Punkte: Es sind pro Gruppenmitglied 3 Bilder auf der Website vorhanden. Für jedes Bild gibt es zwei Ansichten. Ansicht: 1 das unbearbeitete Bild, Ansicht 2: das bearbeitete Bild. Für jedes Bild existiert eine Beschreibung des Bildes (was ist gut gelungen,…) und die Metadaten (mindestens ISO, Blende und Verschlusszeit)
+›
+2 Punkte: Die Bildbeschreibung ist mangelhaft, oder es fehlen die Metadaten
+›
+1 Punkt: Es existiert keine Bildbeschreibung
+›
+0 Punkte: Es existieren keine zwei Ansichten der Bilder (vorher nachher), oder es werden weniger als 3 Bilder pro Person gezeigt
+›
+
+Einbinden von Videos
+›
+3 Punkte: Es ist ein mindestens 2 Minütiges Video eingebunden. Zusätzlich wurde ein Stream eingebunden
+›
+2 Punkte: Der Stream fehlt, oder das Video ist kürzer als 2 Minuten
+›
+1 Punkt: Der Stream fehlt und das Video ist kürzer als 2 Minuten
+›
+0 Punkte: Es wurde kein Video eingebunden, dann spielt der Stream keine Rolle
+›
+
+Demonstration der Site
+›
+3 Punkte: Die Demonstration der Site folgt einem roten Faden und wird vom Schulserver gezeigt
+›
+2 Punkte: Die Demonstration (vom Schuleserver) ist nicht vollständig, der rote Faden ist kaum erkennbar
+›
+1 Punkt: Es ist kein roter Faden erkennbar, die Demonstration (vom Schulserver) ist wirr
+›
+0 Punkte: Die Demonstration kann nicht vom Schulserver gezeigt werden
+
+›
+Zeitbudget der Präsentation (ohne Videovorführung)
+›
+3 Punkte: Das Zeitbudet von 10 Minuten wird eingehalten (± 1 Minute)
+›
+2 Punkte: Die Zeit für die Demonstration weicht um mehr als eine Minute vom Zeitbudget ab
+›
+1 Punkt: Die Zeit für die Demonstration weicht um mehr als drei Minuten vom Zeitbudget ab
+›
+0 Punkte: Die Zeit für die Demonstration weicht um mehr als vier Minuten vom Zeitbudget ab

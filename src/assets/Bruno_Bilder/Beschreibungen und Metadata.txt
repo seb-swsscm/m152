@@ -1,0 +1,35 @@
+
+
+3.1 - 
+	gut: Kamera haltung und Bild Komposition
+	schlecht: Fokus ist schlecht erkennbar (Gang)
+
+	Metadaten
+	ISO: ISO-500
+	Blende: 2.52
+	Verschlusszeit: 1/50s
+
+
+3.2 - 
+	gut: Klarer Fokus auf Zeittafel
+	schlecht: Blur auf den Stufen etwas schwach
+
+	Metadaten
+	ISO: ISO-320
+	Blende: 2.52
+	Verschlusszeit: 1/100s
+	
+
+
+3.3 - 
+	gut: Neue Perspektive auf einen Gleisübergang
+	schlecht: Fokus nicht klar auf das Blaue Schild.
+
+	Metadaten
+	ISO: ISO-640
+	Blende: 2.52
+	Verschlusszeit: 1/10s
+	
+	
+
+	
